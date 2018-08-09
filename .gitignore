@@ -1,0 +1,6 @@
+/doc/
+/sql/
+/target/
+.classpath
+.project
+/.settings
